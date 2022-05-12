@@ -14,7 +14,7 @@
 
   : 하나의 데이터를 다룸 
   
-  : 이 [페이지](https://docs.google.com/document/d/1eO3h_4K_FXTltJycHL8A1f91g2TLTzugSOOfyVwh07U/edit#heading=h.8nwaxpa7qw3w) 에서 [Lab2] 2번 결과 예시 가 나오도록 구현
+  : 이 [페이지](https://docs.google.com/document/d/1eO3h_4K_FXTltJycHL8A1f91g2TLTzugSOOfyVwh07U/edit#heading=h.563ybayer1ue) 에서 [Lab2] 2번 결과 예시 가 나오도록 구현
    
  
   
